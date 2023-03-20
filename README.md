@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Paul Crescini (@pcrescini) 
-- 💻  I'm a front-end web devloper
+- 💻  I'm a front-end web devloper | Personal website: [paulcrescini.dev](https://paulcrescini.dev/)
 - 🔎  I’m currently exploring ... all things React plus brushing up on data structures and algorithms.
 - 👀  I’m interested in ... photography, food blogging, listening to tech podcasts, and supporting local businesses in Houston, TX
 - 📫  How to reach me ... email: [paul.c.crescini@gmail.com](mailto:paul.c.crescini@gmail.com) / linkedin: [linkedin.com/in/paulccrescini](https://www.linkedin.com/in/paulccrescini/)
